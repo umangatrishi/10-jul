@@ -1,0 +1,17 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+int T;
+cin>>T;
+while(T--){
+    int topten;
+    cin>>topten;
+    if(topten<=10)
+    std::cout <<"Yes"<< std::endl;
+    else
+    cout<<"no"<<endl;
+    
+}
+
+}
